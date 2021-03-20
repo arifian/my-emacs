@@ -1,0 +1,9 @@
+ls
+ls -alh
+clear
+ls -alh
+watch kubectl get pods --all-namespaces
+exit
+sudo systemctl restart prometheus
+sudo systemctl restart prometheus
+sudo systemctl restart prometheus
